@@ -19,11 +19,26 @@
         'simplAdmin.cms',
         'simplAdmin.search',
         'simplAdmin.reviews',
+        'simplAdmin.comments',
         'simplAdmin.activityLog',
         'simplAdmin.vendors',
         'simplAdmin.localization',
         'simplAdmin.news',
-        'simplAdmin.contacts'
+        'simplAdmin.contacts',
+        'simplAdmin.pricing',
+        'simplAdmin.tax',
+        'simplAdmin.shippings',
+        'simplAdmin.shipping-tablerate',
+        'simplAdmin.payments',
+        'simplAdmin.paymentStripe',
+        'simplAdmin.paymentPaypalExpress',
+        'simplAdmin.inventory',
+        'simplAdmin.shipment',
+        'simplAdmin.paymentCoD',
+        'simplAdmin.recentlyViewed',
+        'simplAdmin.paymentBraintree',
+        'simplAdmin.paymentMomo',
+        'simplAdmin.paymentNganLuong'
     ]);
 
     toastr.options.closeButton = true;
